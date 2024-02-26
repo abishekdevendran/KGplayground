@@ -1,0 +1,14 @@
+Tesla and xAI CEO Elon Musk has hit out at Google in the ongoing controversy over the text-to-image generation feature of its Gemini AI chatbot. Notably, Google's Gemini chatbot has been accused of being "too woke" for generating some historically inaccurate images depicting World War II soldiers and America's founding fathers.
+
+Raising the issue on X (formerly Twitter), Musk called Google 'insane' and 'anti-civilization', claiming that the Mountain View, California-based company had overplayed its hand with the AI's image-generation capabilities of Gemini.
+
+Musk wrote: “I’m glad that Google overplayed their hand with their AI image generation, as it made their insane racist, anti-civilizational programming clear to all."
+
+Meanwhile, Republican leader Vivek Ramaswamy also commented on the issue, writing, “The globally embarrassing rollout of Google’s LLM has proves that James Damore was 100% correct about Google’s descent into an ideological echo chamber. Employees working on Gemini surely realized it was a mistake to make it so blatantly racist, but they likely kept their mouths shut because they didn’t want to get fired like Damore. These companies program their employees with broken incentives, and those employees then program the AI with the same biases."
+
+Google pauses Gemini's AI generation capabilities: 
+Google has paused the image-generation capabilities of its Gemini AI chatbot after a series of controversies surrounding the new feature. The Mountain View, California-based company admitted that Gemini offered "inaccuracies in some historical depictions" and promised to release an improved version of the feature soon.
+
+In a statement on X about Gemini's text-to-image capabilities, Google wrote: “We’re working to improve these kinds of depictions immediately. Gemini’s AI image generation does generate a wide range of people. And that’s generally a good thing because people around the world use it. But it’s missing the mark here."
+
+In yet another post, Google confirmed that it was pausing Gemini's image generation feature, noting, “We're already working to address recent issues with Gemini's image generation feature. While we do this, we're going to pause the image generation of people and will re-release an improved version soon."
