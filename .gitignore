@@ -3,3 +3,5 @@
 .conda
 .vscode
 vectorstores
+indices
+tsplib
